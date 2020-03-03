@@ -9,3 +9,5 @@ var topic = "space";
 var conversation = `${topic}`;
 
 greeting = 'Hello, everybody!';
+
+specialGuest = 'Hello, ${specialGuest}!'
